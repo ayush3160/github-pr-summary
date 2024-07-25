@@ -2,7 +2,7 @@
 
 </div>
 
-# <p align="center">Agent to summarize Github PRs</p>
+# <p align="center">See I am trigerring Pr summary bot</p>
 
 <p align="center">
   <a href="https://discord.gg/ccZn9ZMfFf">
